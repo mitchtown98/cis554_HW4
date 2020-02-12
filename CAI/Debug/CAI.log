@@ -1,0 +1,5 @@
+﻿  MathAssist.cpp
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2005: "void __cdecl correct1(void)" (?correct1@@YAXXZ) already defined in MathAssist.obj
+C:\cis_554\HW4\CAI\Debug\CAI.exe : fatal error LNK1169: one or more multiply defined symbols found
